@@ -17,6 +17,7 @@ It processes the raw data, computes essential statistics, generates meaningful v
 
 All outputs are saved to the following location:
 ~/Downloads/Survey_Analysis_Graphs/
+![Screenshot (2)](https://github.com/user-attachments/assets/2f3f66b2-942e-4b0b-ac87-eb7de2f75af2)
 
 
 ---
