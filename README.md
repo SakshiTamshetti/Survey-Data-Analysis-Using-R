@@ -98,5 +98,3 @@ After execution, find all the generated files in your Downloads folder:
 > C:/Users/YourUsername/Downloads/Survey_Analysis_Graphs/
 
 
-I hope you find the project useful and the analysis insightful! Happy coding!
-If you have any further questions or issues, don't hesitate to reach out.
