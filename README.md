@@ -1,6 +1,6 @@
 
 # 📊 Survey-Data-Analysis-Using-R
-## 📝 Overview
+##  Overview
 
 This R project performs a comprehensive analysis of customer survey data, focusing on:
 
